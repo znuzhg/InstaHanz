@@ -4,7 +4,7 @@ InstaHanz Instagram OSINT Aracı - Profil, Hashtag ve Konum Analizi için CLI Ar
 =======
 # 🧠 InstaHanz v1.0
 
-Instagram OSINT Aracı (by Mahmut)
+Instagram OSINT Aracı (by znuzhg)
 
 ---
 
@@ -38,7 +38,7 @@ Instagram OSINT Aracı (by Mahmut)
 1. Depoyu klonlayın:
 
 ```bash
-git clone https://github.com/kullaniciadi/InstaHanz.git
+git clone https://github.com/znuzhg/InstaHanz.git
 cd InstaHanz
 
 #Sanal ortam oluşturun ve aktif edin:
