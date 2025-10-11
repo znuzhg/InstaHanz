@@ -49,6 +49,9 @@ source instavenv/bin/activate
 #Gerekli paketleri yükleyin:
 python3 -m pip install -r requirements.txt
 
+#setup.py için gerekli
+pip install --upgrade pip setuptools wheel
+
 #Aracı başlatmak için:
 python3 InstaHanz_launcher.py
 veya
