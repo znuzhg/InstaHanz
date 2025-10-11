@@ -40,7 +40,7 @@ Instagram OSINT Aracı (by znuzhg)
 ```bash
 git clone https://github.com/znuzhg/InstaHanz.git
 cd InstaHanz
-
+chmod +x InstaHanz.sh InstaHanz_launcher.py
 #Sanal ortam oluşturun ve aktif edin:
 
 python3 -m venv instavenv
