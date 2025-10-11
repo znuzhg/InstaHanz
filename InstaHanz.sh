@@ -4,7 +4,7 @@ clear
 BANNER="
 ╔═══════════════════════════════════════╗
 ║   🧠 InstaHanz v1.0                   ║
-║   Instagram OSINT Aracı (by Mahmut)   ║
+║   Instagram OSINT Aracı (by znuzhg)   ║
 ╚═══════════════════════════════════════╝
 "
 echo "$BANNER"

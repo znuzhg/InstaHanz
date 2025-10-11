@@ -14,7 +14,7 @@ from InstaHanz.api import (
 def main():
     print("╔═══════════════════════════════════════╗")
     print("║   🧠 InstaHanz v1.0                   ║")
-    print("║   Instagram OSINT Aracı (by Mahmut)   ║")
+    print("║   Instagram OSINT Aracı (by znuzhg)   ║")
     print("╚═══════════════════════════════════════╝")
     print()
     print("[1] Profil Analizi")
